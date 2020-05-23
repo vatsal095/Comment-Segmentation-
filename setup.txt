@@ -1,0 +1,4 @@
+consumerKey = 'enter your twitter consumerkey'
+consumerSecret = 'enter your twitter consumerSecret'
+accessToken = 'enter your twitter accessToken'
+accessTokenSecret = 'enter your twitter accesstokensecret'
